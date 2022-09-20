@@ -96,3 +96,8 @@ o	Networking: enables network operations, management, & communication between bo
 
 •	There are “Trusted Advisors” for the ability to increase performance and help get the best practices. A customized cloud expert that checks for opportunities to reduce costs and increase productivity. 
 
+## Questions: 
+
+What kind of default reports are available? 
+
+Can I save custom AWS Cost explorer report? 
