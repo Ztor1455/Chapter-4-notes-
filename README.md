@@ -1,4 +1,4 @@
-# Chapter-4-notes- How AWS Pricing Works 
+# Module Four Notes 02: Cloud Economics and Billing 
 
 ## 4.01 Introduction 
 
